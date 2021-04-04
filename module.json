@@ -14,5 +14,8 @@
       "module": "therros-tales-wake-of-war-pro",
       "entity": "Item"
     }
-  ]
+  ],
+  "url": "https://github.com/gerardhoey/therros-tales-items",
+  "manifest": "https://github.com/gerardhoey/therros-tales-items/blob/c649944f98dccf17940b5fc0db6d884025f9c8be/module.json",
+  "download": "https://github.com/gerardhoey/therros-tales-items/blob/c649944f98dccf17940b5fc0db6d884025f9c8be/module.zip"
 }
